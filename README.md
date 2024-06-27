@@ -70,6 +70,6 @@
 
 Ces étapes permettent de structurer le travail de mise à jour de la page Internet en s'assurant que chaque tâche est accomplie de manière méthodique et ordonnée.
 
-## Découvrir le projet Riding Cities en ligne
-🔗 [Koukaki Studio](https://#/)
+#### Découvrir le projet Riding Cities en ligne
+🔗 [Koukaki Studio](https://jean-assoumani.github.io/riding-cities/)<br>
 <em>Projet 2 - Premiers pas sur le language HTML - Openclassrooms 2024</em>
