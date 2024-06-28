@@ -58,6 +58,5 @@
 
 <p>Ces étapes permettent de structurer le travail de mise à jour de la page Internet en s'assurant que chaque tâche est accomplie de manière méthodique et ordonnée.</p>
 
-#### Voir le projet en ligne
-🔗 [Riding Cities](https://jean-assoumani.github.io/riding-cities/)
+#### Voir le projet en ligne 🔗 [Riding Cities](https://jean-assoumani.github.io/riding-cities/)
 ***<p>Projet 2 - Premiers pas sur le language HTML - Openclassrooms 2024</p>***
