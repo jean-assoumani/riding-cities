@@ -2,8 +2,8 @@
 
 ![Riding Cities](images/riding-cities.png)
 
-***<p>"<b>Client</b> : Riding Cities, association de skate***<br>
-***<b>Mission</b> : actualiser la page Internet de Riding Cities"</p>***
+***<p>"Client : Riding Cities, association de skate***<br>
+***Mission : actualiser la page Internet de Riding Cities"</p>***
 
 ### 👨🏾‍💻 Modification de la section HTML
 
@@ -52,11 +52,11 @@
 ### Rattachement des documents de téléchargement
 
 #### 1. Attribution des liens de téléchargement
-- Les boutons doivent mener vers les plannings de cours pour enfants et pour adultes.
+- Les boutons doivent mener vers les plannings de cours pour [enfants](https://jean-assoumani.github.io/riding-cities/documents/planning-enfants.pdf) et pour [adultes](https://jean-assoumani.github.io/riding-cities/documents/planning-adultes.pdf).
   - Récupérer les liens des brochures dans le dossier "Documents".
   - Remplir l’attribut `href` des boutons avec les liens appropriés.
 
 <p>Ces étapes permettent de structurer le travail de mise à jour de la page Internet en s'assurant que chaque tâche est accomplie de manière méthodique et ordonnée.</p>
 
-#### Voir le projet en ligne 🔗 [Riding Cities](https://jean-assoumani.github.io/riding-cities/)
+#### Voir le projet en ligne : 🔗 [Riding Cities](https://jean-assoumani.github.io/riding-cities/)
 ***<p>Projet 2 - Premiers pas sur le language HTML - Openclassrooms 2024</p>***
