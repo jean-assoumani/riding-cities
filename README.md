@@ -52,7 +52,7 @@
 ### Rattachement des documents de téléchargement
 
 #### 1. Attribution des liens de téléchargement
-- Les boutons doivent mener vers les plannings de cours pour [enfants](https://jean-assoumani.github.io/riding-cities/documents/planning-enfants.pdf) et pour [adultes](https://jean-assoumani.github.io/riding-cities/documents/planning-adultes.pdf).
+- Les boutons doivent mener vers les plannings de cours pour enfants et pour adultes.
   - Récupérer les liens des brochures dans le dossier "Documents".
   - Remplir l’attribut `href` des boutons avec les liens appropriés.
 
