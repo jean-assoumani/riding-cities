@@ -57,6 +57,4 @@
   - Remplir l’attribut `href` des boutons avec les liens appropriés.
 
 <p>Ces étapes permettent de structurer le travail de mise à jour de la page Internet en s'assurant que chaque tâche est accomplie de manière méthodique et ordonnée.</p>
-
-#### Voir le projet en ligne : 🔗 [Riding Cities](https://riding-cities.assoumani.pro/)
 ***<p>Projet 2 - Premiers pas sur le language HTML - Openclassrooms 2024</p>***
